@@ -1,0 +1,9 @@
+{
+  "$schema": "https://json.schemastore.org/web-manifest-combined.json",
+  "name": "github-emoji-finder",
+  "short_name": "GitHub Emoji Finder",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#fff",
+  "description": "Helps you find the right emoji for GitHub."
+}
